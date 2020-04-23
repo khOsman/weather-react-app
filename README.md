@@ -6,5 +6,9 @@
 
 ### Screen-Shots:
 
-![alt](Home.png) ![alt](screen-1.png) ![alt](screen-2.png)
+![alt](Home.png) 
+
+![alt](screen-1.png) 
+
+![alt](screen-2.png)
 
